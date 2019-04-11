@@ -1,0 +1,54 @@
+#navbar {
+    width: 100%;
+    height: 100px;
+    background: rgba(75, 12, 0);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+#navbarLeft {
+    float: left;
+}
+
+#navbarMiddle {
+    text-align: center;
+}
+
+#navbarRight {
+    float: right;
+}
+
+#navBarPic {
+    height: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    float: left;
+}
+
+.navItem {
+    display: inline-block;
+    width: 33%;
+}
+
+
+#guess {
+    color: white;
+    font-size: 25px;
+    font-family: 'MedievalSharp', cursive;
+    margin-top: 40px;
+}
+
+.score {
+    color: white;
+    font-size: 15px;
+    font-family: 'MedievalSharp', cursive;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: right;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+

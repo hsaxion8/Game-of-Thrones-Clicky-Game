@@ -1,0 +1,9 @@
+#footer {
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(rgb(75, 12, 0), rgb(248, 248, 252), rgba(75, 12, 0));
+}
+.footerWrapper {
+    margin-top: 30px;   
+}
