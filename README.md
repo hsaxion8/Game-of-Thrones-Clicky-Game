@@ -1,4 +1,4 @@
 https://youtu.be/Dl-xGwKDq2o
 
 
-[![Game of Thrones Clicky Games(https://img.youtube.com/vi/https://www.wired.com/geekdad/wp-content/uploads/2011/04/GoT.jpg/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Dl-xGwKDq2o "Game of Thrones Clicky Games")
+[![Game of Thrones Clicky Game](https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg)](https://www.youtube.com/watch?v=Dl-xGwKDq2o&feature=youtu.be "Game of Thrones Clicky Game")
