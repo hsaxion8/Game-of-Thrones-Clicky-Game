@@ -1,4 +1,4 @@
 https://youtu.be/Dl-xGwKDq2o
 
 
-![alt text](http://url/to/https://onedrive.live.com/?cid=F237758C3E9A3C1C&id=F237758C3E9A3C1C%211493&parId=F237758C3E9A3C1C%21291&o=OneUp)
+[![GoT Clicky Games](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Dl-xGwKDq2o)
